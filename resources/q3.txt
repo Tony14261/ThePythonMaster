@@ -1,0 +1,5 @@
+How can we create a blank list?
+    A. listname = []
+    B. list.create(listname)
+    C. listname()
+    D. listname = ""

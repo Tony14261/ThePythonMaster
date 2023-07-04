@@ -1,0 +1,5 @@
+In Python, does True and 'True' the same?
+    A. Yes
+    B. No
+    C. In some situations
+    D. In some softwares

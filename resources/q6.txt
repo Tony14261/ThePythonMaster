@@ -1,0 +1,5 @@
+How can we get the last item in a list?
+    A. myList.get[len(myList) - 1]
+    B. myList.last()
+    C. myList[len(myList) - 1]
+    D. myList(len(myList) - 1)

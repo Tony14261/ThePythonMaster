@@ -1,0 +1,5 @@
+How can we repeat a script 3 times in Python?
+    A. repeat(3):
+    B. for i in 3:
+    C. for i in range(3):
+    D. for i in 3(times)

@@ -1,0 +1,5 @@
+How can we create a forever loop in Python?
+    A. While True:
+    B. forever:
+    C. while True:
+    D. run:

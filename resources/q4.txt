@@ -1,0 +1,5 @@
+How can we create a function in Python?
+    A. func myFunction():
+    B. define myFunction():
+    C. def myFunction[]:
+    D. def myFunction():

@@ -1,0 +1,5 @@
+How can we insert comments in Python?
+    A. //Comment
+    B. #Comment
+    C. *Comment*
+    D. !Comment

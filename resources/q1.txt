@@ -1,0 +1,5 @@
+What is a correct syntax to output "Hello World" in Python?
+    A. output("Hello World")
+    B. print("Hello World")
+    C. output.print("Hello World")
+    D. show("Hello World")

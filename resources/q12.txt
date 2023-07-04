@@ -1,0 +1,5 @@
+What is number 10 in Binary?
+    A. 01010
+    B. 01001
+    C. 0101
+    D. 010101

@@ -1,0 +1,5 @@
+The queue performs operations in .... order.
+    A. FIFO
+    B. FILO
+    C. A or B (base on conditions)
+    D. None of these

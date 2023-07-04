@@ -1,0 +1,5 @@
+What is the number 100 in Binary?
+    A. 01100101
+    B. 00100100
+    C. 01100100
+    D. 01110011

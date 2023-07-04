@@ -1,0 +1,5 @@
+Which of these script outputs 2?
+A. 2*1
+B. print(2*2)
+C. print(2x1)
+D. print(2*1)

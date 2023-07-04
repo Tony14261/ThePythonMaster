@@ -1,0 +1,5 @@
+How can we install module 'pygame' in CMD?
+    A. install pygame
+    B. pip download pygame
+    C. python install pygame
+    D. pip install pygame
